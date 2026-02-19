@@ -15,3 +15,5 @@ Aesthetic filters
  Before / After preview
 
  Download final edited image
+ <img width="748" height="533" alt="image" src="https://github.com/user-attachments/assets/475a3ad7-ebe4-44e2-a38e-9af449193723" />
+
